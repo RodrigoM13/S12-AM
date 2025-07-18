@@ -20,3 +20,4 @@ Este proyecto es una calculadora desarrollada en **Kotlin** utilizando **Android
 
 ## 📷 Captura de pantalla
 
+![Vertical](calculadora_vertical.png) | ![Horizontal](calculadora_horizontal.png)
